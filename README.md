@@ -23,5 +23,10 @@
 <img width="240" alt="model2-4" src="https://user-images.githubusercontent.com/60779441/82538693-15643380-9b87-11ea-91b6-8f95f9d76cbc.PNG">
 5. Images and corresponding probability that predicted Wrong
 <img width="668" alt="model2-5" src="https://user-images.githubusercontent.com/60779441/82538694-15fcca00-9b87-11ea-98ea-2a8add97886c.PNG">
-
-
+<br><br>
+1.model
+<h2>MODEL 3 : 7 Layers with 4 Convolution layer</h2>
+2. Training with Training loss
+3. Test Accuracy
+4. Images and corresponding probability that predicted Right
+5. Images and corresponding probability that predicted Wrong
