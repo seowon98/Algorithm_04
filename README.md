@@ -26,7 +26,14 @@
 <br><br>
 1.model
 <h2>MODEL 3 : 7 Layers with 4 Convolution layer</h2>
+<img width="543" alt="model3-1" src="https://user-images.githubusercontent.com/60779441/82540188-9c1a1000-9b89-11ea-9742-3ac8609f2389.PNG">
 2. Training with Training loss
+<img width="509" alt="model3-2" src="https://user-images.githubusercontent.com/60779441/82540177-99b7b600-9b89-11ea-97c2-96bfbad24596.PNG">
 3. Test Accuracy
+<img width="388" alt="model3-3" src="https://user-images.githubusercontent.com/60779441/82540179-9ae8e300-9b89-11ea-9edc-feb8117867cb.PNG">
 4. Images and corresponding probability that predicted Right
+<img width="243" alt="model3-4" src="https://user-images.githubusercontent.com/60779441/82540181-9b817980-9b89-11ea-9f4c-9b44bc3d3798.PNG">
 5. Images and corresponding probability that predicted Wrong
+<img width="666" alt="model3-5" src="https://user-images.githubusercontent.com/60779441/82540186-9b817980-9b89-11ea-95cd-97d66994d162.PNG">
+
+
